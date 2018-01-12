@@ -24,6 +24,7 @@ Imports:
     promises,
     later
 Remotes:
+    mingwandroid/later
     rstudio/promises
 LinkingTo: Rcpp, BH, later
 URL: https://github.com/rstudio/httpuv
